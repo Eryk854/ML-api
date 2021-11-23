@@ -1,0 +1,3 @@
+FROM postgres
+ENV POSTGRES_PASSWORD Testing_4321
+ENV POSTGRES_DB my_database
